@@ -1,0 +1,30 @@
+SIGCT-HRHVM — Prototipo web académico
+======================================
+
+CONTENIDO
+- index.html: sitio web de demostración en un solo archivo.
+
+CÓMO ABRIR
+1. Descarga y descomprime SIGCT-HRHVM_prototipo.zip.
+2. Abre la carpeta SIGCT-HRHVM.
+3. Toca o haz doble clic en index.html. Se abrirá en tu navegador.
+4. Para exponerlo, puedes navegar por Inicio, Citas, Pacientes, Control de turnos y Reportes.
+
+FUNCIONES INCLUIDAS
+- Página de presentación del proyecto.
+- Menú de navegación y panel de módulos.
+- Formulario para registrar citas ficticias.
+- Listado de citas con búsqueda y cambio de estado.
+- Registro y búsqueda de pacientes ficticios.
+- Control de turnos.
+- Indicadores y gráficos sencillos.
+- Exportación de las citas de demostración a CSV.
+- Ventana de acceso simulado.
+
+IMPORTANTE
+Este es un prototipo académico y NO es un sistema oficial del Hospital Regional Hermilio Valdizán Medrano.
+No está conectado a servidores, bases de datos ni sistemas del hospital. Los datos iniciales son ficticios.
+No ingreses DNI, teléfonos, contraseñas, información clínica ni datos personales reales.
+Los datos agregados se mantienen solo en la memoria de la página durante la sesión; al recargar, se restablece la demostración.
+Para producción harían falta autorización institucional, backend seguro, control de acceso, auditoría,
+copias de seguridad, pruebas y cumplimiento de la normativa peruana de protección de datos personales.
